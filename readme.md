@@ -44,8 +44,8 @@ Once the database is established, it will be utilized for various machine learni
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/zarkobabic/Web-Scraping-Project-for-Serbian-Bookstores
+    cd Web-Scraping-Project-for-Serbian-Bookstores
     ```
 
 2. **Install Dependencies:**
